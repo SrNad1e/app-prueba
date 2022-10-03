@@ -1,9 +1,9 @@
 {
-  "name": "#ProgramadorFitness",
-  "short_name": "#ProgramadorFitness",
+  "name": "#ToulousePrueba",
+  "short_name": "#TolousePrueba",
   "description": "Bienvenid@s a #ProgramadorFitness, serie de videos, donde te daré consejos para llevar una vida saludable y evitar el sedentarismo. Recuerda... mente sana en cuerpo sano :)",
-  "background_color": "#2B2B2B",
-  "theme_color": "#F0DB4F",
+  "background_color": "#dc9575",
+  "theme_color": "#dc9575",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "./?utm_source=web_app_manifest",
